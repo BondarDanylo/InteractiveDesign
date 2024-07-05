@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+
+         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+
+         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>https://interactivedesign.io/index.html</loc>
+
+      <lastmod>2022-09-19</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>1</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://interactivedesign.io/branding.html</loc>
+
+      <lastmod>2022-09-19</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+   </url>
+
+    <url>
+
+      <loc>https://interactivedesign.io/design.html</loc>
+
+      <lastmod>2022-09-19</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+   </url>
+
+
+    <url>
+
+      <loc>https://interactivedesign.io/development.html</loc>
+
+      <lastmod>2022-09-19</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+   </url>
+
+
+    <url>
+
+      <loc>https://interactivedesign.io/marketing.html</loc>
+
+      <lastmod>2022-09-19</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+   </url>
+
+
+    <url>
+
+      <loc>https://interactivedesign.io/branding.html</loc>
+
+      <lastmod>2022-09-19</lastmod>
+
+      <changefreq>never</changefreq>
+
+      <priority>0.1</priority>
+
+   </url>
+
+</urlset>
